@@ -4,56 +4,56 @@ body{
 .header1{
 	padding: 10px;
 	background-color: #fff;
-	height: 2500px;
+	height: 2780px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header2{
 	padding: 10px;
 	background-color: #fff;
-	height: 3800px;
+	height: 3950px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header3{
 	padding: 10px;
 	background-color: #fff;
-	height: 2500px;
+	height: 2750px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header4{
 	padding: 10px;
 	background-color: #fff;
-	height: 3050px;
+	height: 3420px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header5{
 	padding: 10px;
 	background-color: #fff;
-	height: 2020px;
+	height: 2200px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header6{
 	padding: 10px;
 	background-color: #fff;
-	height: 1530px;
+	height: 1680px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header7{
 	padding: 10px;
 	background-color: #fff;
-	height: 1680px;
+	height: 1900px;
 	width: 1100px;
 	margin: 0 auto;
 }
 .header8{
 	padding: 10px;
 	background-color: #fff;
-	height: 2780px;
+	height: 2960px;
 	width: 1100px;
 	margin: 0 auto;
 }
@@ -205,6 +205,8 @@ input[name="r"]{
 .classic{
 	font-size: 20px;
 	line-height: 1.5;
+	text-indent: 1.5em;
+	text-align: justify;
 }
 .image{
 	margin-left: 150px;
